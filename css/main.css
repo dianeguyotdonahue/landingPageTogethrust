@@ -268,9 +268,17 @@ hr {
   height: 0;
 }
 
+.title-logo {
+  width:23%;
+  margin-left:12%;
+  margin-right:40%;
+  margin-top:5%;
+}
+
 @media only screen and (max-width: 768px) {
-  title-logo {
-    width: 15%;
+  .title-logo {
+    width: 60%;
+    margin-left: 18%;
   }
 }
 
@@ -1682,6 +1690,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
   .home-image-right img {
     vertical-align: top;
     width: 70%;
+    margin-bottom:-100px;
   }
 }
 
