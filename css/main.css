@@ -268,6 +268,12 @@ hr {
   height: 0;
 }
 
+@media only screen and (max-width: 768px) {
+  title-logo {
+    width: 15%;
+  }
+}
+
 
 /* -------------------------------------------------------------------
  * Lists - (_document-setup.scss)
@@ -381,6 +387,7 @@ img.pull-left {
 
 .bgrid {
   padding: 0 20px;
+  width: 140%;
 }
 
 @media only screen and (max-width: 1024px) {
@@ -1649,7 +1656,7 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
 
 @media only screen and (max-width: 1300px) {
   .home-image-right {
-    right: 5rem;
+    display: none;
   }
 }
 
