@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="65px" height="49px" viewBox="0 0 65 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
     <title>003-handshake</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="2.1.-Home-V1" transform="translate(-514.000000, -676.000000)" fill-rule="nonzero">
-            <g id="Icones" transform="translate(134.000000, 646.000000)">
-                <g id="003-handshake" transform="translate(380.000000, 30.000000)">
+        <g id="2.1.-Home-V2" transform="translate(-499.000000, -953.000000)" fill-rule="nonzero">
+            <g id="Icones" transform="translate(126.000000, 811.000000)">
+                <g id="003-handshake" transform="translate(380.000000, 160.000000)">
                     <path d="M56,22.097239 L53.7785796,24.2977558 L47.5002833,30.518629 L45.912838,32.0894806 L45.7347696,32.2658735 L43.9824985,34 L30.6586043,20.8000828 L28.2874006,23.1489734 C27.3056454,24.1198346 25.7165288,24.1198346 24.7363164,23.1489734 C23.7545612,22.1781122 23.7545612,20.6022935 24.7363164,19.6314323 L30.961385,13.463286 L30.9630564,13.463286 L33.2062051,11.2395897 L34.4575701,10 L39.5793855,10.232431 L44.2352658,10.4434657 L56,22.097239 Z" id="Shape" fill="#FFFFFF"></path>
                     <g id="Group" transform="translate(24.000000, 11.000000)" fill="#E4EAF8">
                         <polygon id="Shape" points="31.6232609 11.8421586 29.4322101 14.0208747 15.4271377 0.0955765266 20.0194928 0.304382236"></polygon>

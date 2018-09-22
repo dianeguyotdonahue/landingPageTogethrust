@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="29px" height="72px" viewBox="0 0 29 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
     <title>016-graphic-design</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="2.1.-Home-V1" transform="translate(-238.000000, -651.000000)" fill-rule="nonzero">
-            <g id="Icones" transform="translate(134.000000, 646.000000)">
-                <g id="016-graphic-design" transform="translate(104.000000, 5.000000)">
+        <g id="2.1.-Home-V2" transform="translate(-205.000000, -943.000000)" fill-rule="nonzero">
+            <g id="Icones" transform="translate(126.000000, 811.000000)">
+                <g id="016-graphic-design" transform="translate(104.000000, 135.000000)">
                     <polygon id="Shape" fill="#FAD961" points="16.987781 2 11.0120779 2 10 12 18 12"></polygon>
                     <path d="M4.76703359,52.3049988 L10.9586661,28.0574019 C11.508547,25.9041049 13.7653651,24.5877765 16,25.1169694 L8.74063192,53.5465777 L7.33353621,59.0575174 L5.04998059,68 L2,63.1421279 L3.21582002,58.3805242" id="Shape" fill="#0FACF3"></path>
                     <circle id="Oval" fill="#FFFFFF" cx="5.5" cy="54.5" r="3.5"></circle>
